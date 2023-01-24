@@ -1,0 +1,2 @@
+# ICS4U-Portfolio-Michael-Wu
+This project is a portfolio which summarizies some of my experiences in the ICS4U course. Included in the webiste are some of the modules I've worked on this semester (top 10), the answers to 3 question prompts, along with a little bit aobut myself. I've also included a variety of embedded sketches that I've worked on in the webiste, including the 'mini backrooms' game I created during the course.
